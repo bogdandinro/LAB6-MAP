@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entity>
+    <grade>
+        <id>1_2</id>
+        <date>2019-11-19</date>
+        <teacher>Rox</teacher>
+        <value>10.0</value>
+    </grade>
+    <grade>
+        <id>1_3</id>
+        <date>2019-11-19</date>
+        <teacher>Rox</teacher>
+        <value>10.0</value>
+    </grade>
+    <grade>
+        <id>2_2</id>
+        <date>2019-11-19</date>
+        <teacher>Rox</teacher>
+        <value>10.0</value>
+    </grade>
+</entity>

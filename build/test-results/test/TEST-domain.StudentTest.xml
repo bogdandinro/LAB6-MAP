@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="domain.StudentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-10T11:05:11" hostname="Andreea" time="0.01">
+  <properties/>
+  <testcase name="setGroup" classname="domain.StudentTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

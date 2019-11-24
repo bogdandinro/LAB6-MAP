@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entity>
+    <student>
+        <id>1</id>
+        <firstname>Ana</firstname>
+        <secondname>Asmarandei</secondname>
+        <group>221</group>
+        <email>aair@scs.ubbcluj.roAndreea</email>
+        <teacher>Andreea</teacher>
+    </student>
+</entity>

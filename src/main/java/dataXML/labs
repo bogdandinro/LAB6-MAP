@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entity>
+    <lab>
+        <id>2</id>
+        <description>Optional</description>
+        <startweek>7</startweek>
+        <deadlineweek>9</deadlineweek>
+    </lab>
+    <lab>
+        <id>3</id>
+        <description>This lab is a little harder</description>
+        <startweek>7</startweek>
+        <deadlineweek>10</deadlineweek>
+    </lab>
+    <lab>
+        <id>4</id>
+        <description>OOP</description>
+        <startweek>8</startweek>
+        <deadlineweek>13</deadlineweek>
+    </lab>
+</entity>

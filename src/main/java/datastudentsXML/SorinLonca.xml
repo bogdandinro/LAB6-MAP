@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entity>
+    <grade>
+        <id>2</id>
+        <value>10.0</value>
+        <date>2019-11-19</date>
+        <deadline>9</deadline>
+        <feedback>da</feedback>
+    </grade>
+</entity>

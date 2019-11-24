@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entity>
+    <student>
+        <id>1</id>
+        <firstname>Ana</firstname>
+        <secondname>Asmarandei</secondname>
+        <group>221</group>
+        <email>aai2@scs.ubbcluj.ro</email>
+        <teacher>Andreea</teacher>
+    </student>
+    <student>
+        <id>2</id>
+        <firstname>Sorin</firstname>
+        <secondname>Lonca</secondname>
+        <group>224</group>
+        <email>lsir@scs.ubbcluj.ro</email>
+        <teacher>Roxana</teacher>
+    </student>
+    <student>
+        <id>226</id>
+        <firstname>Nita</firstname>
+        <secondname>Dan</secondname>
+        <group>225</group>
+        <email>ndir@scs.ubbcluj.ro</email>
+        <teacher>Adriana</teacher>
+    </student>
+    <student>
+        <id>24</id>
+        <firstname>Ognean</firstname>
+        <secondname>Bogdan</secondname>
+        <group>225</group>
+        <email>bognean@scs.ubbcluj.ro</email>
+        <teacher>Mircea</teacher>
+    </student>
+</entity>
